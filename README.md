@@ -12,20 +12,25 @@ npm run dev
 ```
 
 ## Api
+### Development 
+Watches JavaScript files and runs tests in watch mode.
+
 ```
 npm run dev
 ```
-Watches JavaScript files and runs tests in watch mode.
+
+### Production
+Builds production files
 
 ```
 npm run build
 ```
-Builds production files
 
+### Linting
+Lints and fixes JavaScript issues
 ```
 npm run lint
 ```
-Lints and fixes JavaScript issues
 
 
 After cloning you should update the `name`, `main` and `module` properties in the `package.json` file.
